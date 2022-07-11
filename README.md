@@ -1,6 +1,9 @@
 # Shepard Art Creator Asset Downloader
 With this script, you can download all artwork/images from [https://www.ea.com/games/mass-effect/mass-effect-legendary-edition/my-shepard-art-creator](https://www.ea.com/games/mass-effect/mass-effect-legendary-edition/my-shepard-art-creator)
-for whatever your purpose, like custom wallpapers. 
+for whatever your purpose, like creating custom wallpapers.
+
+Here is an example wallpaper!
+![image](https://github.com/osman-yuksel/Shepard-Art-Creator-Asset-Downloader/blob/main/me-wallpaper.png?raw=true)
 
 <h2>Instructions</h2>
 
