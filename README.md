@@ -9,7 +9,7 @@ Here is an example wallpaper!
 
 1. Create new folder.
 2. Copy downloader.py file to this folder.
-3. Run the downloader.py scrip.
+3. Run the downloader.py script.
 	1. The script should work fine with all python 3.x versions.
 	2. Requires [pillow](https://pypi.org/project/Pillow/) library.
 4. The script creates some folders and starts downloading 4k images.
