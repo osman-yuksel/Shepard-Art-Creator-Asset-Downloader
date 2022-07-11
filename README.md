@@ -29,4 +29,4 @@ Here is an example wallpaper!
 
 <h2>Notes</h2>
 
-All rights of artwork/images are owned by Bioware. If you think that I should delete this because of legal reasons. You can contact me from osmanyukselrm@outlook.com. It also applies to questions and advice.
+All rights of artwork/images are owned by Bioware. If you think that I should delete this because of legal reasons. You can contact me via osmanyukselrm@outlook.com. It also applies to questions and advice.
